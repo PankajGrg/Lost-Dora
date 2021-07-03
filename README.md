@@ -4,8 +4,9 @@
 <hr>
 
 To run this code -
-```git clone  https://github.com/PankajGrg/Lost-Dora/
-g++ main.cpp
+```
+git clone  https://github.com/PankajGrg/Lost-Dora/
 cd Lost-Dora
+g++ main.cpp
 ./a.out
 ```
